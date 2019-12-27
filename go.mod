@@ -5,6 +5,7 @@ go 1.12
 replace (
 	github.com/go-resty/resty => gopkg.in/resty.v1 v1.9.0
 	github.com/knative/pkg => github.com/rancher/pkg v0.0.0-20190514055449-b30ab9de040e
+	github.com/rancher/kontainer-driver-metadata => github.com/brendarearden/kontainer-driver-metadata v0.0.0-20191227224843-7c21d3d00d05
 	k8s.io/api => k8s.io/api v0.0.0-20190918155943-95b840bb6a1f
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.0.0-20190918161926-8f644eb6e783
 	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20190913080033-27d36303b655

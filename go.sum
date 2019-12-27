@@ -78,8 +78,8 @@ github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdn
 github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
 github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
 github.com/brancz/gojsontoyaml v0.0.0-20190425155809-e8bd32d46b3d/go.mod h1:IyUJYN1gvWjtLF5ZuygmxbnsAyP3aJS6cHzIuZY50B0=
-github.com/brendarearden/kontainer-driver-metadata v0.0.0-20191227224843-7c21d3d00d05 h1:K2KdpBGaS2ubOOaaStk5pp5Xv4gqanWwmSGuaNwpSSA=
-github.com/brendarearden/kontainer-driver-metadata v0.0.0-20191227224843-7c21d3d00d05/go.mod h1:VBeI/67gB2g/zn1R3Tu7VvCCKTiYCX0HfsFVvnm7v2I=
+github.com/brendarearden/kontainer-driver-metadata v0.0.0-20191227231347-2745baa5e9bc h1:tK7ToilRBTEf5i3JUrV9MKUrzzE/qOQ87PyqYQZknkY=
+github.com/brendarearden/kontainer-driver-metadata v0.0.0-20191227231347-2745baa5e9bc/go.mod h1:VBeI/67gB2g/zn1R3Tu7VvCCKTiYCX0HfsFVvnm7v2I=
 github.com/caddyserver/caddy v1.0.3/go.mod h1:G+ouvOY32gENkJC+jhgl62TyhvqEsFaDiZ4uw0RzP1E=
 github.com/campoy/embedmd v1.0.0/go.mod h1:oxyr9RCiSXg0M3VJ3ks0UGfp98BpSSGr0kpiX3MzVl8=
 github.com/cenk/backoff v2.0.0+incompatible/go.mod h1:7FtoeaSnHoZnmZzz47cM35Y9nSW7tNyaidugnHTaFDE=
